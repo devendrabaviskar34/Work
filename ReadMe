@@ -1,0 +1,19 @@
+Before running the scripts, ensure you have the following installed:
+
+- **Java JDK 8+**
+- **Maven** (if using Maven project)
+- **IntelliJ IDEA** or another Java IDE
+- **Chrome browser** (or compatible browser)
+- **ChromeDriver** (matching your Chrome version, added to system PATH)
+
+---
+
+## How to Run the Scripts
+
+### 1️⃣ Using IntelliJ IDEA
+1. Open the project in IntelliJ IDEA
+2. Navigate to `src/test/java/Assignment`
+3. Right-click on the **test class** or **testng.xml**
+4. Click **Run**
+
+\
