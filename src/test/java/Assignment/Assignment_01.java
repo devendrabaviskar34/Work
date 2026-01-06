@@ -98,9 +98,9 @@ public class Assignment_01 {
         // Click on document page to add sign
         ClickOntheTextPage.click();
 
-        // Click on download
-        WebElement DowloadPdf = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//span[text()='Download']")));
-        DowloadPdf.click();
+        // Click on the download button
+        WebElement DownloadPdf = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//span[text()='Download']")));
+        DownloadPdf.click();
 
     }
 
